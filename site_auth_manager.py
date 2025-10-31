@@ -2,7 +2,7 @@
 # 💤 Optional: Toggleable debug print silencer
 # ============================================================
 import builtins
-DEBUG_MODE = True  # set True if you want to see prints again
+DEBUG_MODE = False  # set True if you want to see prints again
 
 def _silent_print(*args, **kwargs):
     if DEBUG_MODE:
@@ -1284,6 +1284,7 @@ def reset_user_sites(chat_id):
 
     except Exception as e:
         print(f"[SITE RESET ERROR] Could not recreate site JSON for {chat_id}: {e}")
+
 
 
 
