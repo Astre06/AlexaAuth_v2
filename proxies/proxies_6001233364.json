@@ -1,0 +1,17 @@
+{
+  "proxies": [
+    {
+      "raw": "us.decodo.com:10001:sp0vte106e:0rk~W8X7ghG0srxkkK",
+      "parsed": {
+        "host": "us.decodo.com",
+        "port": "10001",
+        "user": "sp0vte106e",
+        "pass": "0rk~W8X7ghG0srxkkK"
+      },
+      "last_status": "live",
+      "last_checked": "2025-10-29 03:24:42",
+      "ip": "97.80.73.150"
+    }
+  ],
+  "last_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "proxies": [
+    {
+      "raw": "175.29.135.7:5433:5K05CT880J2D:VE1MSDRGFDZB",
+      "parsed": {
+        "host": "175.29.135.7",
+        "port": "5433",
+        "user": "5K05CT880J2D",
+        "pass": "VE1MSDRGFDZB"
+      },
+      "last_status": "live",
+      "last_checked": "2025-10-29 14:47:37",
+      "ip": "175.29.135.7"
+    }
+  ],
+  "last_index": 0
+}

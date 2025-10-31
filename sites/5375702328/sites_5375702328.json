@@ -1,0 +1,15 @@
+{
+  "5375702328": {
+    "sites": {
+      "https://www.seed2design.co.uk": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      }
+    },
+    "defaults_snapshot": [
+      "https://www.seed2design.co.uk"
+    ]
+  }
+}

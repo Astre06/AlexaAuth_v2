@@ -1,0 +1,1622 @@
+{
+  "559888": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Bangkok Bank Public Company Limited",
+    "country": "Thailand",
+    "bin": "559888",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  },
+  "537389": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Wirex Limited",
+    "country": "Spain",
+    "bin": "537389",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "480209": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA BUSINESS",
+    "bank": "U.S. Bank National Association",
+    "country": "United States of America",
+    "bin": "480209",
+    "display_clean": "VISA BUSINESS - DEBIT - VISA"
+  },
+  "424671": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Ing Bank Slaski Sa",
+    "country": "Poland",
+    "bin": "424671",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "456140": {
+    "scheme": "VISA",
+    "type": "DEFERRED_DEBIT",
+    "brand": "VISA GOLD",
+    "bank": "Societe Generale S.A.",
+    "country": "France",
+    "bin": "456140",
+    "display_clean": "VISA GOLD - DEFERRED_DEBIT - VISA"
+  },
+  "515462": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "MASTERCARD PREPAID GIFT",
+    "bank": "The Bancorp Bank National Association",
+    "country": "United States of America",
+    "bin": "515462",
+    "display_clean": "MASTERCARD PREPAID GIFT - PREPAID - MASTERCARD"
+  },
+  "544422": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Js Bank Limited",
+    "country": "Pakistan",
+    "bin": "544422",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "411911": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Dbs Bank Ltd",
+    "country": "Singapore",
+    "bin": "411911",
+    "display_clean": "VISA PLATINUM - CREDIT - VISA"
+  },
+  "508518": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "PLATINUM",
+    "bank": "Punjab National Bank",
+    "country": "India",
+    "bin": "508518",
+    "display_clean": "PLATINUM - DEBIT - RUPAY"
+  },
+  "530487": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Pt. Bank Cimb Niaga Tbk.",
+    "country": "Indonesia",
+    "bin": "530487",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  },
+  "510246": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTERCARD B2B PRODUCT 5",
+    "bank": "Chase Paymentech Europe Limited",
+    "country": "Ireland",
+    "bin": "510246",
+    "display_clean": "MASTERCARD B2B PRODUCT 5 - CREDIT - MASTERCARD"
+  },
+  "422046": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Banco Nacional De Credito C.A.",
+    "country": "Venezuela",
+    "bin": "422046",
+    "display_clean": "VISA PLATINUM - CREDIT - VISA"
+  },
+  "539768": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Intesa Sanpaolo Spa",
+    "country": "Italy",
+    "bin": "539768",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  },
+  "411841": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Banco Agricola S.A.",
+    "country": "El Salvador",
+    "bin": "411841",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "415464": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Khaleeji Bank B.S.C",
+    "country": "Bahrain",
+    "bin": "415464",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "407843": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA GOLD",
+    "bank": "Mercado Pago Instituicao De Pagamento Ltda.",
+    "country": "Brazil",
+    "bin": "407843",
+    "display_clean": "VISA GOLD - CREDIT - VISA"
+  },
+  "460186": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Gotyme Bank Corporation",
+    "country": "Philippines",
+    "bin": "460186",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "520353": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Philippine National Bank",
+    "country": "Philippines",
+    "bin": "520353",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "418898": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Bank Of The Philippine Islands",
+    "country": "Philippines",
+    "bin": "418898",
+    "display_clean": "VISA CLASSIC - CREDIT - VISA"
+  },
+  "426634": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Mid Oregon Federal Credit Union",
+    "country": "United States of America",
+    "bin": "426634",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "478200": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "478200",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "450644": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Canadian Imperial Bank Of Commerce",
+    "country": "Canada",
+    "bin": "450644",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "491566": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Banco Mercantil Del Norte S.A.., Instituci N De Banca M Ltiple, Grupo Financiero",
+    "country": "Mexico",
+    "bin": "491566",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "510894": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "First Arkansas Bank & Trust",
+    "country": "United States of America",
+    "bin": "510894",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "540045": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTERCARD MIXED",
+    "bank": "Turkiye Vakiflar Bankasi T.A.O.",
+    "country": "Türkiye",
+    "bin": "540045",
+    "display_clean": "MASTERCARD MIXED - CREDIT - MASTERCARD"
+  },
+  "451014": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Royal Bank Of Canada",
+    "country": "Canada",
+    "bin": "451014",
+    "display_clean": "VISA CLASSIC - CREDIT - VISA"
+  },
+  "455511": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA BUSINESS",
+    "bank": "Bbva Mexico S.A.",
+    "country": "Mexico",
+    "bin": "455511",
+    "display_clean": "VISA BUSINESS - DEBIT - VISA"
+  },
+  "467785": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Rhb Bank Berhad",
+    "country": "Malaysia",
+    "bin": "467785",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "524167": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Yes Bank Limited",
+    "country": "India",
+    "bin": "524167",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "508588": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "CLASSIC",
+    "bank": "Idbi",
+    "country": "India",
+    "bin": "508588",
+    "display_clean": "CLASSIC - DEBIT - RUPAY"
+  },
+  "516840": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Akbank T.A.S.",
+    "country": "Türkiye",
+    "bin": "516840",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "409398": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA SIGNATURE",
+    "bank": "(Ofac Sanctioned) Vtb Bank Pjsc",
+    "country": "Russian Federation",
+    "bin": "409398",
+    "display_clean": "VISA SIGNATURE - DEBIT - VISA"
+  },
+  "525678": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Banco Nacional De Mexico, S.A.",
+    "country": "Mexico",
+    "bin": "525678",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "549777": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Axis Bank Limited",
+    "country": "India",
+    "bin": "549777",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  },
+  "538196": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Turkiye Garanti Bankasi A.S.",
+    "country": "Türkiye",
+    "bin": "538196",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "497895": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Bpce",
+    "country": "France",
+    "bin": "497895",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "480465": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA PURCHASING",
+    "bank": "Celtic Bank",
+    "country": "United States of America",
+    "bin": "480465",
+    "display_clean": "VISA PURCHASING - CREDIT - VISA"
+  },
+  "508545": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "PLATINUM",
+    "bank": "City Union Bank",
+    "country": "India",
+    "bin": "508545",
+    "display_clean": "PLATINUM - DEBIT - RUPAY"
+  },
+  "426842": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA REWARDS",
+    "bank": "(Ofac Sanctioned) Bank Iturup Limited Liability Company",
+    "country": "Russian Federation",
+    "bin": "426842",
+    "display_clean": "VISA REWARDS - DEBIT - VISA"
+  },
+  "535522": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "WORLD DEBIT EMBOSSED",
+    "bank": "Monzo Bank Limited",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "bin": "535522",
+    "display_clean": "WORLD DEBIT EMBOSSED - DEBIT - MASTERCARD"
+  },
+  "508679": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "CLASSIC",
+    "bank": "Tamilnadu State Apex Co-Operative Bank",
+    "country": "India",
+    "bin": "508679",
+    "display_clean": "CLASSIC - DEBIT - RUPAY"
+  },
+  "508543": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "CLASSIC",
+    "bank": "Saraswat Co-Operative Bank",
+    "country": "India",
+    "bin": "508543",
+    "display_clean": "CLASSIC - DEBIT - RUPAY"
+  },
+  "435972": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Pt. Bank Rakyat Indonesia (Persero) Tbk",
+    "country": "Indonesia",
+    "bin": "435972",
+    "display_clean": "VISA PLATINUM - CREDIT - VISA"
+  },
+  "552115": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "PLATINUM",
+    "bank": "Cimb Bank Berhad",
+    "country": "Malaysia",
+    "bin": "552115",
+    "display_clean": "PLATINUM - CREDIT - MASTERCARD"
+  },
+  "488950": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Pt Bank Jago Tbk",
+    "country": "Indonesia",
+    "bin": "488950",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "508968": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "CLASSIC",
+    "bank": "Bandhan Bank",
+    "country": "India",
+    "bin": "508968",
+    "display_clean": "CLASSIC - DEBIT - RUPAY"
+  },
+  "483316": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "483316",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "508779": {
+    "scheme": "RUPAY",
+    "type": "DEBIT",
+    "brand": "CLASSIC",
+    "bank": "Hdfc Bank",
+    "country": "India",
+    "bin": "508779",
+    "display_clean": "CLASSIC - DEBIT - RUPAY"
+  },
+  "437772": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA REWARDS",
+    "bank": "(Ofac Sanctioned) Tinkoff Bank",
+    "country": "Russian Federation",
+    "bin": "437772",
+    "display_clean": "VISA REWARDS - DEBIT - VISA"
+  },
+  "447624": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA GOLD",
+    "bank": "(Suspended) Ao Raiffeisenbank",
+    "country": "Russian Federation",
+    "bin": "447624",
+    "display_clean": "VISA GOLD - DEBIT - VISA"
+  },
+  "417851": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Bank Of Maharashtra",
+    "country": "India",
+    "bin": "417851",
+    "display_clean": "VISA PLATINUM - CREDIT - VISA"
+  },
+  "442756": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "442756",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "434258": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Wells Fargo Bank, National Association",
+    "country": "United States of America",
+    "bin": "434258",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "490070": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "490070",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "536350": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT GOLD",
+    "bank": "Banque Populaire De Mauritanie",
+    "country": "Mauritania",
+    "bin": "536350",
+    "display_clean": "DEBIT GOLD - DEBIT - MASTERCARD"
+  },
+  "537939": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Soneri Bank Limited",
+    "country": "Pakistan",
+    "bin": "537939",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "553253": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "GOLD",
+    "bank": "Banco Santander Mexico Sa Institucion De Banca Multiple Grupo Financ",
+    "country": "Mexico",
+    "bin": "553253",
+    "display_clean": "GOLD - CREDIT - MASTERCARD"
+  },
+  "474501": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Egyptian National Post Organisation",
+    "country": "Egypt",
+    "bin": "474501",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "416916": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Bancoppel S.A. Institucion De Banca Multiple",
+    "country": "Mexico",
+    "bin": "416916",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "414740": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Jpmorgan Chase Bank N.A.",
+    "country": "United States of America",
+    "bin": "414740",
+    "display_clean": "VISA TRADITIONAL - CREDIT - VISA"
+  },
+  "483313": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "483313",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "461046": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "461046",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "420767": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "420767",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "540501": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "PURCHASING",
+    "bank": "Jpmorgan Chase Bank, N.A.",
+    "country": "United States of America",
+    "bin": "540501",
+    "display_clean": "PURCHASING - CREDIT - MASTERCARD"
+  },
+  "406032": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "406032",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "483312": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "483312",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "413444": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Community Federal Savings Bank",
+    "country": "United States of America",
+    "bin": "413444",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "428331": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Saudi Awwal Bank",
+    "country": "Saudi Arabia",
+    "bin": "428331",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "538404": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "MASTERCARD PREPAID NON US GENERAL SPEND",
+    "bank": "D.I. Postal Finance Ltd",
+    "country": "Israel",
+    "bin": "538404",
+    "display_clean": "MASTERCARD PREPAID NON US GENERAL SPEND - PREPAID - MASTERCARD"
+  },
+  "529107": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Capital One, National Association",
+    "country": "United States of America",
+    "bin": "529107",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "537234": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTER",
+    "bank": "Psa Payment Services Austria Gmbh",
+    "country": "Austria",
+    "bin": "537234",
+    "display_clean": "DEBIT MASTER - DEBIT - MASTERCARD"
+  },
+  "517116": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Rhb Bank Berhad",
+    "country": "Malaysia",
+    "bin": "517116",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "490937": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Krung Thai Bank Public Company Limited",
+    "country": "Thailand",
+    "bin": "490937",
+    "display_clean": "VISA PLATINUM - DEBIT - VISA"
+  },
+  "484718": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Tbbk Card Services, Inc.",
+    "country": "United States of America",
+    "bin": "484718",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "486796": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "486796",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "434769": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "434769",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "414718": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Wells Fargo Bank, National Association",
+    "country": "United States of America",
+    "bin": "414718",
+    "display_clean": "VISA TRADITIONAL - CREDIT - VISA"
+  },
+  "414720": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Jpmorgan Chase Bank N.A.",
+    "country": "United States of America",
+    "bin": "414720",
+    "display_clean": "VISA TRADITIONAL - CREDIT - VISA"
+  },
+  "436127": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Pathward, N.A.",
+    "country": "United States of America",
+    "bin": "436127",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "491901": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Innovations Financial Credit Union",
+    "country": "United States of America",
+    "bin": "491901",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "403275": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Pinnacle Bank",
+    "country": "United States of America",
+    "bin": "403275",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "435142": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Truist Bank",
+    "country": "United States of America",
+    "bin": "435142",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "422689": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA INFINITE",
+    "bank": "Al Rajhi Banking And Investment Corp.",
+    "country": "Saudi Arabia",
+    "bin": "422689",
+    "display_clean": "VISA INFINITE - CREDIT - VISA"
+  },
+  "527520": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Bank Of America, National Association",
+    "country": "United States of America",
+    "bin": "527520",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "410651": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Kredittbanken Asa",
+    "country": "Norway",
+    "bin": "410651",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "431231": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA BUSINESS",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "431231",
+    "display_clean": "VISA BUSINESS - DEBIT - VISA"
+  },
+  "521876": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTERCARD WORLD ELITE",
+    "bank": "Citibank N.A.",
+    "country": "United States of America",
+    "bin": "521876",
+    "display_clean": "MASTERCARD WORLD ELITE - CREDIT - MASTERCARD"
+  },
+  "534860": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "DEBIT BUSINESS",
+    "bank": "Bank Of America, National Association",
+    "country": "United States of America",
+    "bin": "534860",
+    "display_clean": "DEBIT BUSINESS - CREDIT - MASTERCARD"
+  },
+  "544347": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Capital One, National Association",
+    "country": "United States of America",
+    "bin": "544347",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "522962": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Ing Belgium",
+    "country": "Belgium",
+    "bin": "522962",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "512669": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "PREPAID MASTERCARD UNEMBOSSED NON US",
+    "bank": "Cassa Centrale Banca - Credito Cooperativo Del Nord Est Spa",
+    "country": "Italy",
+    "bin": "512669",
+    "display_clean": "PREPAID MASTERCARD UNEMBOSSED NON US - PREPAID - MASTERCARD"
+  },
+  "492912": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Barclays Bank Uk Plc",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "bin": "492912",
+    "display_clean": "VISA PLATINUM - CREDIT - VISA"
+  },
+  "428258": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Solaris Se",
+    "country": "Germany",
+    "bin": "428258",
+    "display_clean": "VISA CLASSIC - CREDIT - VISA"
+  },
+  "441105": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "441105",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "551827": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT PLATINUM",
+    "bank": "Bank Of Baroda",
+    "country": "India",
+    "bin": "551827",
+    "display_clean": "DEBIT PLATINUM - DEBIT - MASTERCARD"
+  },
+  "434559": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Banco Del Estado De Chile",
+    "country": "Chile",
+    "bin": "434559",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "426807": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Bancoppel S.A. Institucion De Banca Multiple",
+    "country": "Mexico",
+    "bin": "426807",
+    "display_clean": "VISA CLASSIC - CREDIT - VISA"
+  },
+  "511340": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "PREPAID MASTERCARD UNEMBOSSED NON US",
+    "bank": "Peoples Trust Company",
+    "country": "Canada",
+    "bin": "511340",
+    "display_clean": "PREPAID MASTERCARD UNEMBOSSED NON US - PREPAID - MASTERCARD"
+  },
+  "536123": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Aircash D O O",
+    "country": "Croatia",
+    "bin": "536123",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "510982": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "MASTERCARD PREPAID GENERAL SPEND",
+    "bank": "Heritage And People'S Choice Limited",
+    "country": "Australia",
+    "bin": "510982",
+    "display_clean": "MASTERCARD PREPAID GENERAL SPEND - PREPAID - MASTERCARD"
+  },
+  "408565": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Mashreqbank",
+    "country": "United Arab Emirates",
+    "bin": "408565",
+    "display_clean": "VISA PLATINUM - DEBIT - VISA"
+  },
+  "544544": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "MASTERCARD PREPAID CONSUMER INCENTIVE",
+    "bank": "Sunrise Banks, National Association",
+    "country": "United States of America",
+    "bin": "544544",
+    "display_clean": "MASTERCARD PREPAID CONSUMER INCENTIVE - PREPAID - MASTERCARD"
+  },
+  "451992": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Royal Bank Of Canada",
+    "country": "Canada",
+    "bin": "451992",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "535825": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "TITANIUM DEBIT MASTER",
+    "bank": "The Saudi National Bank",
+    "country": "Saudi Arabia",
+    "bin": "535825",
+    "display_clean": "TITANIUM DEBIT MASTER - DEBIT - MASTERCARD"
+  },
+  "409542": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA PLATINUM",
+    "bank": "Axis Bank Limited",
+    "country": "India",
+    "bin": "409542",
+    "display_clean": "VISA PLATINUM - DEBIT - VISA"
+  },
+  "531107": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "MASTERCARD PREPAID GENERAL SPEND",
+    "bank": "Pathward, National Association",
+    "country": "United States of America",
+    "bin": "531107",
+    "display_clean": "MASTERCARD PREPAID GENERAL SPEND - PREPAID - MASTERCARD"
+  },
+  "521730": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Bmo Bank National Association",
+    "country": "United States of America",
+    "bin": "521730",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "550759": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Computer Services, Inc.",
+    "country": "United States of America",
+    "bin": "550759",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "407654": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA BUSINESS ENHANCED",
+    "bank": "Al Rajhi Banking And Investment Corp.",
+    "country": "Saudi Arabia",
+    "bin": "407654",
+    "display_clean": "VISA BUSINESS ENHANCED - CREDIT - VISA"
+  },
+  "514377": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "The Bancorp Bank National Association",
+    "country": "United States of America",
+    "bin": "514377",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "516883": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "As Lhv Pank",
+    "country": "Estonia",
+    "bin": "516883",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "521729": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Commonwealth Bank Of Australia",
+    "country": "Australia",
+    "bin": "521729",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "535667": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Santander Uk Plc",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "bin": "535667",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "414693": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Orient Corporation",
+    "country": "Japan",
+    "bin": "414693",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "441339": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Banque Nationale D'Investissement",
+    "country": "Côte d'Ivoire",
+    "bin": "441339",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "497402": {
+    "scheme": "VISA",
+    "type": "DEFERRED_DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Bnp Paribas",
+    "country": "France",
+    "bin": "497402",
+    "display_clean": "VISA CLASSIC - DEFERRED_DEBIT - VISA"
+  },
+  "455552": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "The Bancorp Bank, National Association",
+    "country": "United States of America",
+    "bin": "455552",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "431946": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Allied Irish Banks, P.L.C.",
+    "country": "Ireland",
+    "bin": "431946",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "548697": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "GOLD",
+    "bank": "Dz Bank Ag Deutsche Zentral-Genossenschaftsbank",
+    "country": "Germany",
+    "bin": "548697",
+    "display_clean": "GOLD - CREDIT - MASTERCARD"
+  },
+  "554025": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "STANDARD",
+    "bank": "Mastercajas S.A.",
+    "country": "Spain",
+    "bin": "554025",
+    "display_clean": "STANDARD - CREDIT - MASTERCARD"
+  },
+  "416598": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA INFINITE",
+    "bank": "Revolut Bank Uab",
+    "country": "Ireland",
+    "bin": "416598",
+    "display_clean": "VISA INFINITE - DEBIT - VISA"
+  },
+  "484810": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Public Bank Berhad",
+    "country": "Malaysia",
+    "bin": "484810",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "403163": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Sutton Bank",
+    "country": "United States of America",
+    "bin": "403163",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "522390": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "GOLD",
+    "bank": "Raiffeisen Bank International Ag",
+    "country": "Austria",
+    "bin": "522390",
+    "display_clean": "GOLD - CREDIT - MASTERCARD"
+  },
+  "521853": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "PLATINUM",
+    "bank": "Synchrony Bank",
+    "country": "United States of America",
+    "bin": "521853",
+    "display_clean": "PLATINUM - CREDIT - MASTERCARD"
+  },
+  "499818": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA INFINITE",
+    "bank": "Banco Xp S.A.",
+    "country": "Brazil",
+    "bin": "499818",
+    "display_clean": "VISA INFINITE - CREDIT - VISA"
+  },
+  "535318": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "TITANIUM MASTER",
+    "bank": "Commonwealth Bank Of Australia",
+    "country": "Australia",
+    "bin": "535318",
+    "display_clean": "TITANIUM MASTER - CREDIT - MASTERCARD"
+  },
+  "526889": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "DEBIT BUSINESS",
+    "bank": "Computer Services, Inc.",
+    "country": "United States of America",
+    "bin": "526889",
+    "display_clean": "DEBIT BUSINESS - CREDIT - MASTERCARD"
+  },
+  "548602": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "GOLD",
+    "bank": "Dz Bank Ag Deutsche Zentral-Genossenschaftsbank",
+    "country": "Germany",
+    "bin": "548602",
+    "display_clean": "GOLD - CREDIT - MASTERCARD"
+  },
+  "516171": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "WORLD DEBIT MASTERCARD REWARDS",
+    "bank": "Al Hilal Bank Pjsc",
+    "country": "United Arab Emirates",
+    "bin": "516171",
+    "display_clean": "WORLD DEBIT MASTERCARD REWARDS - DEBIT - MASTERCARD"
+  },
+  "531260": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Bank Of America, National Association",
+    "country": "United States of America",
+    "bin": "531260",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "512230": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTERCARD WORLD ELITE",
+    "bank": "Goldman Sachs Bank Usa",
+    "country": "United States of America",
+    "bin": "512230",
+    "display_clean": "MASTERCARD WORLD ELITE - CREDIT - MASTERCARD"
+  },
+  "477983": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA INFINITE",
+    "bank": "Riyad Bank",
+    "country": "Saudi Arabia",
+    "bin": "477983",
+    "display_clean": "VISA INFINITE - CREDIT - VISA"
+  },
+  "481582": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Bank Of America, National Association",
+    "country": "United States of America",
+    "bin": "481582",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "455369": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA GOLD",
+    "bank": "Credito, S.A.",
+    "country": "Nicaragua",
+    "bin": "455369",
+    "display_clean": "VISA GOLD - CREDIT - VISA"
+  },
+  "521069": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Bdo Unibank, Inc.",
+    "country": "Philippines",
+    "bin": "521069",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  },
+  "531826": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Security Bank Corporation",
+    "country": "Philippines",
+    "bin": "531826",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  },
+  "489504": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Banco De Oro Unibank, Inc.",
+    "country": "Philippines",
+    "bin": "489504",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "526808": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "GOLD",
+    "bank": "Banco Coomeva S.A.",
+    "country": "Colombia",
+    "bin": "526808",
+    "display_clean": "GOLD - CREDIT - MASTERCARD"
+  },
+  "466518": {
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Travel Wallet Co., Ltd.",
+    "country": "Korea",
+    "bin": "466518",
+    "display_clean": "VISA CLASSIC - PREPAID - VISA"
+  },
+  "474844": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Land Bank Of The Philippines",
+    "country": "Philippines",
+    "bin": "474844",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "463225": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA BUSINESS ENHANCED",
+    "bank": "Malayan Banking Berhad",
+    "country": "Malaysia",
+    "bin": "463225",
+    "display_clean": "VISA BUSINESS ENHANCED - DEBIT - VISA"
+  },
+  "407166": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Jpmorgan Chase Bank N.A.",
+    "country": "United States of America",
+    "bin": "407166",
+    "display_clean": "VISA TRADITIONAL - CREDIT - VISA"
+  },
+  "415978": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Truist Bank",
+    "country": "United States of America",
+    "bin": "415978",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "514656": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "DEBIT BUSINESS",
+    "bank": "First Interstate Bank",
+    "country": "United States of America",
+    "bin": "514656",
+    "display_clean": "DEBIT BUSINESS - CREDIT - MASTERCARD"
+  },
+  "522094": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "MASTERCARD PREPAID GENERAL SPEND",
+    "bank": "Community Federal Savings Bank",
+    "country": "United States of America",
+    "bin": "522094",
+    "display_clean": "MASTERCARD PREPAID GENERAL SPEND - PREPAID - MASTERCARD"
+  },
+  "552851": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTER PROFESSIONAL",
+    "bank": "Capital One, National Association",
+    "country": "United States of America",
+    "bin": "552851",
+    "display_clean": "MASTER PROFESSIONAL - CREDIT - MASTERCARD"
+  },
+  "512174": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Citizens Bank, N.A.",
+    "country": "United States of America",
+    "bin": "512174",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "540912": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "PLATINUM",
+    "bank": "Pt. Bank Central Asia, Tbk.",
+    "country": "Indonesia",
+    "bin": "540912",
+    "display_clean": "PLATINUM - CREDIT - MASTERCARD"
+  },
+  "492079": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Aktia Bank Plc",
+    "country": "Finland",
+    "bin": "492079",
+    "display_clean": "VISA CLASSIC - CREDIT - VISA"
+  },
+  "534111": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "GOLD",
+    "bank": "Credit Agricole S.A.",
+    "country": "France",
+    "bin": "534111",
+    "display_clean": "GOLD - CREDIT - MASTERCARD"
+  },
+  "523255": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "STANDARD",
+    "bank": "Deutscher Sparkassen- Und Giroverband",
+    "country": "Germany",
+    "bin": "523255",
+    "display_clean": "STANDARD - CREDIT - MASTERCARD"
+  },
+  "523945": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "PLATINUM",
+    "bank": "Malayan Banking Berhad",
+    "country": "Malaysia",
+    "bin": "523945",
+    "display_clean": "PLATINUM - CREDIT - MASTERCARD"
+  },
+  "419789": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA GOLD",
+    "bank": "Punjab National Bank",
+    "country": "India",
+    "bin": "419789",
+    "display_clean": "VISA GOLD - CREDIT - VISA"
+  },
+  "421355": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Interbank - Banco Internacional Del Peru",
+    "country": "Peru",
+    "bin": "421355",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "552342": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Capital One, National Association",
+    "country": "United States of America",
+    "bin": "552342",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "510875": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Capital One, National Association",
+    "country": "United States of America",
+    "bin": "510875",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "549627": {
+    "scheme": "MASTERCARD",
+    "type": "PREPAID",
+    "brand": "PREPAID MASTERCARD UNEMBOSSED",
+    "bank": "G-Xchange, Inc.",
+    "country": "Philippines",
+    "bin": "549627",
+    "display_clean": "PREPAID MASTERCARD UNEMBOSSED - PREPAID - MASTERCARD"
+  },
+  "517908": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTERCARD WORLD ELITE",
+    "bank": "Citibank N.A.",
+    "country": "United States of America",
+    "bin": "517908",
+    "display_clean": "MASTERCARD WORLD ELITE - CREDIT - MASTERCARD"
+  },
+  "557920": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Scotiabank Inverlat, S.A.",
+    "country": "Mexico",
+    "bin": "557920",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "442742": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA BUSINESS",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "442742",
+    "display_clean": "VISA BUSINESS - DEBIT - VISA"
+  },
+  "546616": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "WORLD",
+    "bank": "Citibank N.A.",
+    "country": "United States of America",
+    "bin": "546616",
+    "display_clean": "WORLD - CREDIT - MASTERCARD"
+  },
+  "512992": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Santander Bank, Na",
+    "country": "United States of America",
+    "bin": "512992",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "542432": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD  ENHANCED",
+    "bank": "Fifth Third Bank, The",
+    "country": "United States of America",
+    "bin": "542432",
+    "display_clean": "DEBIT MASTERCARD  ENHANCED - DEBIT - MASTERCARD"
+  },
+  "426684": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Jpmorgan Chase Bank N.A.",
+    "country": "United States of America",
+    "bin": "426684",
+    "display_clean": "VISA TRADITIONAL - CREDIT - VISA"
+  },
+  "438857": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Jpmorgan Chase Bank N.A.",
+    "country": "United States of America",
+    "bin": "438857",
+    "display_clean": "VISA TRADITIONAL - CREDIT - VISA"
+  },
+  "553890": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "MASTERCARD STANDARD CARD IMMEDIATE DEBIT",
+    "bank": "Mastercajas S.A.",
+    "country": "Spain",
+    "bin": "553890",
+    "display_clean": "MASTERCARD STANDARD CARD IMMEDIATE DEBIT - DEBIT - MASTERCARD"
+  },
+  "431940": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "The Governor And Company Of The Bank Of Ireland",
+    "country": "Ireland",
+    "bin": "431940",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "515676": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTERCARD WORLD ELITE",
+    "bank": "Capital One, National Association",
+    "country": "United States of America",
+    "bin": "515676",
+    "display_clean": "MASTERCARD WORLD ELITE - CREDIT - MASTERCARD"
+  },
+  "497355": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Societe Generale S.A.",
+    "country": "France",
+    "bin": "497355",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "535596": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Bnp Paribas",
+    "country": "Germany",
+    "bin": "535596",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "454313": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Nationwide Building Society",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "bin": "454313",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "547676": {
+    "scheme": "MASTERCARD",
+    "type": "CREDIT",
+    "brand": "MASTER PREFERRED BUSINESS",
+    "bank": "Barclays Bank Plc.",
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "bin": "547676",
+    "display_clean": "MASTER PREFERRED BUSINESS - CREDIT - MASTERCARD"
+  },
+  "548901": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "PLATINUM MASTERCARD IMMEDIATE DEBIT",
+    "bank": "Banco Santander S.A.",
+    "country": "Spain",
+    "bin": "548901",
+    "display_clean": "PLATINUM MASTERCARD IMMEDIATE DEBIT - DEBIT - MASTERCARD"
+  },
+  "493728": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA BUSINESS ENHANCED",
+    "bank": "Reap Technologies Limited",
+    "country": "Hong Kong",
+    "bin": "493728",
+    "display_clean": "VISA BUSINESS ENHANCED - CREDIT - VISA"
+  },
+  "439600": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Unicredit Bank Gmbh",
+    "country": "Germany",
+    "bin": "439600",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "441103": {
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Jpmorgan Chase Bank N.A. - Debit",
+    "country": "United States of America",
+    "bin": "441103",
+    "display_clean": "VISA CLASSIC - DEBIT - VISA"
+  },
+  "498000": {
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA GOLD",
+    "bank": "Sumitomo Mitsui Card Company Limited",
+    "country": "Japan",
+    "bin": "498000",
+    "display_clean": "VISA GOLD - CREDIT - VISA"
+  },
+  "534413": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Unicredit Spa",
+    "country": "Italy",
+    "bin": "534413",
+    "display_clean": "DEBIT STANDARD - DEBIT - MASTERCARD"
+  },
+  "535755": {
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT MASTERCARD UNEMBOSSED",
+    "bank": "Banca Sella Spa",
+    "country": "Italy",
+    "bin": "535755",
+    "display_clean": "DEBIT MASTERCARD UNEMBOSSED - DEBIT - MASTERCARD"
+  }
+}

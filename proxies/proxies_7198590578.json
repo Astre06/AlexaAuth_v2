@@ -1,0 +1,17 @@
+{
+  "proxies": [
+    {
+      "raw": "rp.scrapegw.com:6060:wl70md3uhlz08v2:s9iihxg5si4ei5z",
+      "parsed": {
+        "host": "rp.scrapegw.com",
+        "port": "6060",
+        "user": "wl70md3uhlz08v2",
+        "pass": "s9iihxg5si4ei5z"
+      },
+      "last_status": "live",
+      "last_checked": "2025-10-31 08:19:59",
+      "ip": "187.45.75.155"
+    }
+  ],
+  "last_index": 0
+}

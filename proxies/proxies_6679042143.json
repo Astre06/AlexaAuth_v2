@@ -1,0 +1,17 @@
+{
+  "proxies": [
+    {
+      "raw": "rp.scrapegw.com:6060:ie3ieg1qrz2kxh6-country-de:vr4lycad71fgnoj",
+      "parsed": {
+        "host": "rp.scrapegw.com",
+        "port": "6060",
+        "user": "ie3ieg1qrz2kxh6-country-de",
+        "pass": "vr4lycad71fgnoj"
+      },
+      "last_status": "live",
+      "last_checked": "2025-10-29 10:11:28",
+      "ip": "88.152.216.97"
+    }
+  ],
+  "last_index": 0
+}

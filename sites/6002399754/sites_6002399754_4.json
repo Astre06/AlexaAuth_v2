@@ -1,0 +1,393 @@
+{
+  "6002399754": {
+    "sites": {
+      "https://www.theregalbox.com": {
+        "accounts": [
+          {
+            "email": "fa7ng2iivi@gmail.com",
+            "username": "user_v2tsyj2h",
+            "password": "yhv13qw02nhd"
+          }
+        ],
+        "cookies": {
+          "wordpress_sec_fc253999cde483181d74a060358b97a1": "fa7ng2iivi%7C1762907161%7CCaIQfq9GaC9fFL0djH7W4kdL241LQpBB5zTC9jRmurR%7Cc52574acc1e924041cb3e7a8b5913b1815eb76349378483a7cacdb089b6c27d4",
+          "wordpress_logged_in_fc253999cde483181d74a060358b97a1": "fa7ng2iivi%7C1762907161%7CCaIQfq9GaC9fFL0djH7W4kdL241LQpBB5zTC9jRmurR%7C398ecb8ab2446775ff5b65d04c7a288814f33d1ef9e2e73cb024b809ecefc8bf"
+        },
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {
+          "wordpress_sec_fc253999cde483181d74a060358b97a1": "fa7ng2iivi%7C1762907161%7CCaIQfq9GaC9fFL0djH7W4kdL241LQpBB5zTC9jRmurR%7Cc52574acc1e924041cb3e7a8b5913b1815eb76349378483a7cacdb089b6c27d4",
+          "wordpress_logged_in_fc253999cde483181d74a060358b97a1": "fa7ng2iivi%7C1762907161%7CCaIQfq9GaC9fFL0djH7W4kdL241LQpBB5zTC9jRmurR%7C398ecb8ab2446775ff5b65d04c7a288814f33d1ef9e2e73cb024b809ecefc8bf"
+        },
+        "stripe_pk": "pk_live_51OhKtSLlzlV2HLrQA7vQyWY8SqQth8XSBy8zW7J3cYiAHu4Yrj0nmA07W9dATAIau0LYIyD7FPfVatGbsraUEeWF00QAWEOKlp",
+        "stripe_nonce": "745398b704"
+      },
+      "https://macco-mbs.gr": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://johnoreillybooks.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://umdsoftballcamps.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://ozencare.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.edenclay.co.uk": {
+        "accounts": [
+          {
+            "email": "y33fch4xk0@gmail.com",
+            "username": "user_7fcndxgl",
+            "password": "wmre9m86ynwv"
+          }
+        ],
+        "cookies": {
+          "PHPSESSID": "lbaochmh88pl39o9q72gk2mh3v"
+        },
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {
+          "PHPSESSID": "lbaochmh88pl39o9q72gk2mh3v"
+        },
+        "stripe_pk": "pk_live_51HcqIoB7ltTZtgaGxRSOm15tzP7NeaiRP2mo2oCTylwUKmnElwoBQMHLVeDV0Df2qUfFunSNTMZxO7yQ4w5IK4KP00ijSyAjNO",
+        "stripe_nonce": "100d1d4dea"
+      },
+      "https://www.hoochery.com.au": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://dev.correctionslifeskills.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 1,
+        "mode": "rotate"
+      },
+      "https://flowersfreehold.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://greenwoodtrack.co.uk": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.escashopmirano.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://mihhabayas.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.essancy.co.uk": {
+        "accounts": [
+          {
+            "email": "hza2oxyf3k@gmail.com",
+            "username": "user_5vibz2f0",
+            "password": "olj4y6p5k94y"
+          }
+        ],
+        "cookies": {
+          "wordpress_sec_204004b27c7fda8f28a8458d6653cff5": "user_5vibz2f0%7C1762907135%7C99EvPJkkN0Uz3utBqxVjkE3BOkO3CpF04wopkDOSfOk%7Cb434702f7d551cef179ade67d8035a3b28bf8e016d02f9eefaf8c6a3dab6de56",
+          "wordpress_logged_in_204004b27c7fda8f28a8458d6653cff5": "user_5vibz2f0%7C1762907135%7C99EvPJkkN0Uz3utBqxVjkE3BOkO3CpF04wopkDOSfOk%7Cf9008c0f697004ea8f7d2169caa99d0bcef436e87d3c0986de220ffc37aa80da"
+        },
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {
+          "wordpress_sec_204004b27c7fda8f28a8458d6653cff5": "user_5vibz2f0%7C1762907135%7C99EvPJkkN0Uz3utBqxVjkE3BOkO3CpF04wopkDOSfOk%7Cb434702f7d551cef179ade67d8035a3b28bf8e016d02f9eefaf8c6a3dab6de56",
+          "wordpress_logged_in_204004b27c7fda8f28a8458d6653cff5": "user_5vibz2f0%7C1762907135%7C99EvPJkkN0Uz3utBqxVjkE3BOkO3CpF04wopkDOSfOk%7Cf9008c0f697004ea8f7d2169caa99d0bcef436e87d3c0986de220ffc37aa80da"
+        },
+        "stripe_pk": "pk_live_ByFgr5BqjV9ctUNMXcwFJYdt",
+        "stripe_nonce": "3dc2a503de"
+      },
+      "https://hullekes.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://thebeautyshaman.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://funkyfain.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.queen-space-beauty.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://liebherr-pdf.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.resinscales.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://hazlomemorable.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 1,
+        "mode": "rotate"
+      },
+      "https://reginamode.it": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://qissa.com.au": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://lavanesso.com": {
+        "accounts": [
+          {
+            "email": "dxpmuk6gz8@gmail.com",
+            "username": "user_r1b63ke0",
+            "password": "1qnqxdq5tx5n"
+          }
+        ],
+        "cookies": {},
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {}
+      },
+      "https://www.professionalwireless.com": {
+        "accounts": [
+          {
+            "email": "vd6gqhz2le@gmail.com",
+            "username": "user_auchob9h",
+            "password": "kzob03fp9ocx"
+          }
+        ],
+        "cookies": {
+          "wordpress_sec_6fe24ea8bc1daa0d2d9a77d05433b50a": "user_auchob9h%7C1762908576%7CR0AHTghaXmJ3CuyemeWzbDsieSeJfjpBTDcY3QqS52S%7C860e06ecfd7825a1075d9036b5327212fbcd9dec48aa743bff4788ca91bfdaba",
+          "wordpress_logged_in_6fe24ea8bc1daa0d2d9a77d05433b50a": "user_auchob9h%7C1762908576%7CR0AHTghaXmJ3CuyemeWzbDsieSeJfjpBTDcY3QqS52S%7C3e4ca5f89b1364810ed84c4854e4c1b2fb0a0f25b9002a35438bf61ceddbbd45"
+        },
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {
+          "wordpress_sec_6fe24ea8bc1daa0d2d9a77d05433b50a": "user_auchob9h%7C1762908576%7CR0AHTghaXmJ3CuyemeWzbDsieSeJfjpBTDcY3QqS52S%7C860e06ecfd7825a1075d9036b5327212fbcd9dec48aa743bff4788ca91bfdaba",
+          "wordpress_logged_in_6fe24ea8bc1daa0d2d9a77d05433b50a": "user_auchob9h%7C1762908576%7CR0AHTghaXmJ3CuyemeWzbDsieSeJfjpBTDcY3QqS52S%7C3e4ca5f89b1364810ed84c4854e4c1b2fb0a0f25b9002a35438bf61ceddbbd45"
+        },
+        "stripe_pk": "pk_live_yY8hNTbmR8ZVd52TYFAXC6dw",
+        "stripe_nonce": "734e8b2e83"
+      },
+      "https://cocokaboo.com.au": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://blackdotstore.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://thurstonprintlab.biz": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.brakeconnect.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.frankpmatthews.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://alisonclynes.co.uk": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://shop.holimood.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://gloam.co.uk": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 1,
+        "mode": "rotate"
+      },
+      "https://www.aureliaenergyhealing.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.dhbs.co.uk": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.theivannadrink.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.amesflyfishing.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://emuheaven.com.au": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://www.comfortq.it": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://store.astrinsurgical.com": {
+        "accounts": [
+          {
+            "email": "dmwp82ff50@gmail.com",
+            "username": "user_xok0bces",
+            "password": "uvsapzi5jykz"
+          }
+        ],
+        "cookies": {
+          "wordpress_sec_b20a0702f1a383d0796a7628479f0517": "dmwp82ff50%7C1762907145%7CxulMCkJwxukbaB9AswUj8YPT37yJMiDk8keEDgN6GUL%7Cf8fb8a99c804572ace500c2ce402272bf811a0176fec5fa95d5e85a36c982d69",
+          "wordpress_logged_in_b20a0702f1a383d0796a7628479f0517": "dmwp82ff50%7C1762907145%7CxulMCkJwxukbaB9AswUj8YPT37yJMiDk8keEDgN6GUL%7C4f458cab96f17357d3cad5c4b4e04914120346d27cda2f8fe5d17abec22e2244"
+        },
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {
+          "wordpress_sec_b20a0702f1a383d0796a7628479f0517": "dmwp82ff50%7C1762907145%7CxulMCkJwxukbaB9AswUj8YPT37yJMiDk8keEDgN6GUL%7Cf8fb8a99c804572ace500c2ce402272bf811a0176fec5fa95d5e85a36c982d69",
+          "wordpress_logged_in_b20a0702f1a383d0796a7628479f0517": "dmwp82ff50%7C1762907145%7CxulMCkJwxukbaB9AswUj8YPT37yJMiDk8keEDgN6GUL%7C4f458cab96f17357d3cad5c4b4e04914120346d27cda2f8fe5d17abec22e2244"
+        },
+        "stripe_pk": "pk_live_51NzbMtD3i7p6S8i6BsRtZd8qUKhJ7YB40Xnu6rfc6BdMNLL1x5nvxX0Clmt56EC8nY4bfiVW8o0X1uGV6qYq253H00n3tO7BGK",
+        "stripe_nonce": "1f881b2101"
+      },
+      "https://bleurart.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://bitlantis.city": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://theframwineshop.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://floratea-portugal.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://branding.wequal.com": {
+        "accounts": [
+          {
+            "email": "9kdluc9k1s@gmail.com",
+            "username": "user_ms2aisbp",
+            "password": "dcwe7yblypnj"
+          }
+        ],
+        "cookies": {},
+        "payment_count": 1,
+        "mode": "rotate",
+        "raw_cookies": {}
+      },
+      "https://zanelladermacare.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://directwastedisposal.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://k33b.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://norwayomega.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://jamesportwines.com": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      },
+      "https://mwfdetectors.sg": {
+        "accounts": [],
+        "cookies": null,
+        "payment_count": 0,
+        "mode": "rotate"
+      }
+    }
+  }
+}
