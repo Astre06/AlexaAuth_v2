@@ -1,0 +1,74 @@
+[
+  {
+    "cc": "4147181585421369|07|28|980",
+    "status": "CCN ✅",
+    "site": "https://ozencare.com",
+    "scheme": "",
+    "type": "",
+    "brand": "",
+    "bank": "",
+    "country": "",
+    "proxy": false,
+    "message": "Your card security is incorrect.",
+    "timestamp": "2025-10-27 05:04:53"
+  },
+  {
+    "cc": "4147181585421369|07|28|980",
+    "status": "CCN ✅",
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Wells Fargo Bank, National Association",
+    "country": "United States of America",
+    "proxy": "None",
+    "timestamp": "2025-10-27 05:04:53"
+  },
+  {
+    "cc": "4147181585446622|04|31|187",
+    "status": "CCN ✅",
+    "site": "https://www.theregalbox.com",
+    "scheme": "",
+    "type": "",
+    "brand": "",
+    "bank": "",
+    "country": "",
+    "proxy": false,
+    "message": "Your card security is incorrect.",
+    "timestamp": "2025-10-27 05:18:12"
+  },
+  {
+    "cc": "4147181585446622|04|31|187",
+    "status": "CCN ✅",
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Wells Fargo Bank, National Association",
+    "country": "United States of America",
+    "proxy": "None",
+    "timestamp": "2025-10-27 05:18:12"
+  },
+  {
+    "cc": "4147181585473303|06|31|255",
+    "status": "CCN ✅",
+    "site": "https://directwastedisposal.com",
+    "scheme": "",
+    "type": "",
+    "brand": "",
+    "bank": "",
+    "country": "",
+    "proxy": false,
+    "message": "Your card security is incorrect.",
+    "timestamp": "2025-10-27 05:33:12"
+  },
+  {
+    "cc": "4147181585473303|06|31|255",
+    "status": "CCN ✅",
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Wells Fargo Bank, National Association",
+    "country": "United States of America",
+    "proxy": "None",
+    "timestamp": "2025-10-27 05:33:13"
+  }
+]

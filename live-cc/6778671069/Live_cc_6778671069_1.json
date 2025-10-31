@@ -1,0 +1,41 @@
+[
+  {
+    "cc": "4154644400605276|01|29|319",
+    "status": "Approved ✅",
+    "site": "https://k33b.com",
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Khaleeji Bank B.S.C",
+    "country": "Bahrain",
+    "proxy": false,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-26 03:08:49"
+  },
+  {
+    "cc": "4031630149335829|07|29|451",
+    "status": "Approved ✅",
+    "site": "https://www.edenclay.co.uk",
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Sutton Bank",
+    "country": "United States of America",
+    "proxy": true,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-29 13:06:28"
+  },
+  {
+    "cc": "4154644400601317|12|28|732",
+    "status": "Approved ✅",
+    "site": "https://bitlantis.city",
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Khaleeji Bank B.S.C",
+    "country": "Bahrain",
+    "proxy": true,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-30 03:41:53"
+  }
+]

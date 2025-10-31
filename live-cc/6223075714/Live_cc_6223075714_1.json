@@ -1,0 +1,28 @@
+[
+  {
+    "cc": "5444223155027346|06|27|833",
+    "status": "Approved ✅",
+    "site": "https://mihhabayas.com",
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Js Bank Limited",
+    "country": "Pakistan",
+    "proxy": false,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-26 09:06:41"
+  },
+  {
+    "cc": "5444226567197458|02|26|196",
+    "status": "Approved ✅",
+    "site": "https://zanelladermacare.com",
+    "scheme": "MASTERCARD",
+    "type": "DEBIT",
+    "brand": "DEBIT STANDARD",
+    "bank": "Js Bank Limited",
+    "country": "Pakistan",
+    "proxy": false,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-26 09:06:51"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cc": "4552290016407448|01|26|640",
+    "status": "Approved ✅",
+    "site": "https://branding.wequal.com",
+    "scheme": "",
+    "type": "",
+    "brand": "",
+    "bank": "",
+    "country": "",
+    "proxy": true,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-31 07:10:18"
+  },
+  {
+    "cc": "4552290016407448|01|26|640",
+    "status": "Approved ✅",
+    "scheme": "N/A",
+    "type": "CREDIT",
+    "brand": "VISA",
+    "bank": "BANCO COMERCIAL PORTUGUES S.A.",
+    "country": "PORTUGAL",
+    "proxy": "Live ✅",
+    "timestamp": "2025-10-31 07:10:18"
+  }
+]

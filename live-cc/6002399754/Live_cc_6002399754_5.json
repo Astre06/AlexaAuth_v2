@@ -1,0 +1,26 @@
+[
+  {
+    "cc": "4147400422694552|03|2029|294",
+    "status": "CCN ✅",
+    "site": "https://macco-mbs.gr",
+    "scheme": "",
+    "type": "",
+    "brand": "",
+    "bank": "",
+    "country": "",
+    "proxy": false,
+    "message": "Your card security is incorrect.",
+    "timestamp": "2025-10-26 03:30:53"
+  },
+  {
+    "cc": "4147400422694552|03|2029|294",
+    "status": "CCN ✅",
+    "scheme": "VISA",
+    "type": "CREDIT",
+    "brand": "VISA TRADITIONAL",
+    "bank": "Jpmorgan Chase Bank N.A.",
+    "country": "United States of America",
+    "proxy": "None",
+    "timestamp": "2025-10-26 03:30:54"
+  }
+]

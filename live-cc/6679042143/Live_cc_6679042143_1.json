@@ -1,0 +1,28 @@
+[
+  {
+    "cc": "4146931304578787|01|28|528",
+    "status": "Approved ✅",
+    "site": "https://k33b.com",
+    "scheme": "VISA",
+    "type": "PREPAID",
+    "brand": "VISA CLASSIC",
+    "bank": "Orient Corporation",
+    "country": "Japan",
+    "proxy": false,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-29 00:35:39"
+  },
+  {
+    "cc": "4848100085933725|11|2028|531",
+    "status": "Approved ✅",
+    "site": "https://ozencare.com",
+    "scheme": "VISA",
+    "type": "DEBIT",
+    "brand": "VISA CLASSIC",
+    "bank": "Public Bank Berhad",
+    "country": "Malaysia",
+    "proxy": false,
+    "message": "Auth success🔥",
+    "timestamp": "2025-10-29 06:57:26"
+  }
+]
